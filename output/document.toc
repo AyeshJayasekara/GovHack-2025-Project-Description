@@ -1,0 +1,29 @@
+\contentsline {chapter}{An Accurate and Trustworthy Chatbot for Data Interactions}{2}{Doc-Start}%
+\contentsline {section}{Our Work}{2}{section*.1}%
+\contentsline {section}{Project Description}{2}{section*.1}%
+\contentsline {subsection}{Datasets Used}{2}{section*.2}%
+\contentsline {subsection}{Data Story}{2}{section*.2}%
+\contentsline {subsection}{Our Mission}{3}{section*.2}%
+\contentsline {subsection}{Current Limitations}{3}{section*.2}%
+\contentsline {subsection}{System Architecture}{4}{Item.5}%
+\contentsline {subsection}{Our Approach}{4}{figure.0.1}%
+\contentsline {subsection}{Key Features \& Capabilities}{5}{figure.0.1}%
+\contentsline {subsection}{Objectives We Achieved}{6}{figure.0.1}%
+\contentsline {subsection}{Example Applications and Explanations}{6}{figure.0.2}%
+\contentsline {subsection}{Outcomes Achieved}{7}{Item.8}%
+\contentsline {subsection}{Advanced AI Techniques}{7}{Item.8}%
+\contentsline {subsection}{Technology Stack}{7}{Item.8}%
+\contentsline {subsection}{Tools \& Softwares}{8}{Item.8}%
+\contentsline {subsection}{AI in Governance}{8}{Item.8}%
+\contentsline {subsection}{Boosting Operational Efficiency}{8}{Item.8}%
+\contentsline {subsection}{Improving Transparency}{9}{Item.8}%
+\contentsline {subsection}{Ensuring Ethical Use}{9}{Item.8}%
+\contentsline {subsection}{Data Privacy and Security}{9}{Item.8}%
+\contentsline {subsection}{Future Adaptations}{10}{Item.8}%
+\contentsline {subsection}{Retrieval-Augmented Generation (RAG)}{10}{Item.8}%
+\contentsline {subsection}{Semantic Matching}{10}{Item.8}%
+\contentsline {subsection}{AI Tool Calling}{10}{Item.8}%
+\contentsline {subsection}{Vector Database Utilization}{10}{Item.14}%
+\contentsline {subsection}{Governance and Compliance}{11}{Item.14}%
+\contentsline {chapter}{Disclaimer}{11}{Item.14}%
+\contentsline {chapter}{Team Contact Information}{12}{Item.14}%
